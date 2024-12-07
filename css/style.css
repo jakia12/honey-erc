@@ -1271,12 +1271,12 @@ h2 {
 
 .hero__cat {
     position: absolute;
-    top: 32%;
+    top: 35%;
     left: 50%;
     bottom: 18%;
     transform: translate(-50%, 0);
     /* width: 330px; */
-    width: 280px;
+    width: 400px;
     /* width: 35%; */
     z-index: 10
 }
